@@ -1,8 +1,8 @@
 # Vincent Chimezirim | Portfolio 🔐💻
 
-[![Website](https://img.shields.io/badge/Website-Live-00d4ff?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yourdomain.com)
+[![Website](https://img.shields.io/badge/Website-Live-00d4ff?style=for-the-badge&logo=google-chrome&logoColor=white)](https://netfusion.digital)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vincent-chimezirim-36856b319)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Hushberry)
 [![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
 
 ## 🚀 Live Demo
